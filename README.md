@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics student<br>studying masters mSC in Marekting at University of Birmingham
+Data Analytics and Marketing Enthusiast student<br>Studying Masters MSC in Marekting at University of Birmingham
 
 
 ## 🌐 Socials:
