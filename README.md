@@ -27,11 +27,11 @@ Every project below has its limits written down, and the ones built on simulated
     <td width="50%"><a href="https://github.com/iguesshecodes/F1-2026-Championship-Forecast"><img src="assets/card-f1.svg" alt="F1 2026 Championship Forecast" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-revolut.svg" alt="Revolut London Growth" /></a></td>
-    <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-harry.svg" alt="Harry Styles Tour Analytics" /></a></td>
+    <td width="50%"><a href="https://github.com/iguesshecodes/revolut-london-growth-study"><img src="assets/card-revolut.svg" alt="Revolut London Growth" /></a></td>
+    <td width="50%"><a href="https://github.com/iguesshecodes/harry-styles-tour-analytics"><img src="assets/card-harry.svg" alt="Harry Styles Tour Analytics" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-tesco.svg" alt="Tesco vs Ocado Online Grocery" /></a></td>
+    <td width="50%"><a href="https://github.com/iguesshecodes/tesco-ocado-growth-audit"><img src="assets/card-tesco.svg" alt="Tesco vs Ocado Online Grocery" /></a></td>
     <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-bnpl.svg" alt="BNPL and Impulse Buying" /></a></td>
   </tr>
 </table>
