@@ -1,68 +1,62 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Varesh%20Nirbhavne&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Marketing%20Analyst&descSize=20&descAlignY=60" alt="Varesh Nirbhavne banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=I+turn+messy+data+into+decisions;SQL+%2B+Python+%2B+Tableau+%2B+local+AI;31.8M+rows%2C+one+clear+answer;MSc+Marketing+(Merit)%2C+University+of+Birmingham" alt="Typing intro" />
-
-<p>
-  <a href="https://vareshportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vareshportfolio.vercel.app-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/vareshnirbhavne"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vareshworks@gmail.com"><img src="https://img.shields.io/badge/Email-vareshworks@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Varesh Nirbhavne, Data and Marketing Analyst" width="100%" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Junior%20Data%20%26%20Marketing%20Analyst%20roles-22c55e?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/UK%20Graduate%20visa-Dec%202026%20to%20Dec%202028-0ea5e9?style=flat-square" alt="Right to work" />
-  <img src="https://img.shields.io/badge/Sponsorship-not%20required-64748b?style=flat-square" alt="No sponsorship needed" />
+<p align="center">
+  <a href="https://vareshportfolio.vercel.app"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/vareshnirbhavne"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="mailto:vareshworks@gmail.com"><b>Email</b></a>
 </p>
 
-</div>
-
----
-
-## About me
-
-I started in filmmaking and marketing, and the question that kept coming back was *which of it actually worked?* So I went and learned how to answer that with data.
-
-I finished an **MSc Marketing (Merit)** at the University of Birmingham while teaching myself SQL, Python and machine learning on the side. It felt like doing two degrees at once: analytics and marketing. That is the mix I want to work in.
-
-- Looking for junior **Data Analyst** and **Marketing Analyst** roles anywhere in the UK, or remote
-- Right to work: UK Graduate visa (December 2026 to December 2028), no employer sponsorship required
-- I write down my limits and my mistakes in every project. Honest analysis beats impressive-looking analysis.
-
-## Featured projects
-
-| Project | What it shows | Stack |
-|---|---|---|
-| **[H&M Customer Retention Analysis](https://github.com/iguesshecodes/H-M-ANALYTICS-)** | 31.8M purchases, 1.37M customers. A churn model that ranks customers by *risk x past spend* catches **49.4%** of lost revenue, against **11.0%** for the plain model, from the same top 20% list. | Python, SQL (DuckDB), scikit-learn, Tableau, Ollama |
-| **[F1 2026 Championship Forecast](https://github.com/iguesshecodes/F1-2026-Championship-Forecast)** | SQL weighted performance model plus a Monte Carlo simulation to estimate championship probabilities, with a dashboard. | SQL (BigQuery), Python, Tableau |
-| **[Portfolio: Tesco vs Ocado audit, Revolut growth study, more](https://vareshportfolio.vercel.app)** | Live Meta ad review, Lighthouse tests (Ocado 32 to 37 vs Sainsbury's 54 to 61), ICE-scored growth experiments, and a simulated fintech growth study. | Meta Ad Library, Lighthouse, SQL, Python, Tableau |
-
-## Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,pycharm,vscode&theme=dark" alt="Core tools" />
+<p align="center">
+  Open to junior <b>Data Analyst</b> and <b>Marketing Analyst</b> roles anywhere in the UK, or remote.<br/>
+  Right to work: UK Graduate visa, December 2026 to December 2028. No employer sponsorship required.
 </p>
+
+<p align="center">
+  <img src="assets/stats.svg" alt="Key results across projects" width="100%" />
+</p>
+
+## Selected work
+
+Every project below has its limits written down, and the ones built on simulated data say so.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/iguesshecodes/H-M-ANALYTICS-"><img src="assets/card-hm.svg" alt="H&M Customer Retention" /></a></td>
+    <td width="50%"><a href="https://github.com/iguesshecodes/F1-2026-Championship-Forecast"><img src="assets/card-f1.svg" alt="F1 2026 Championship Forecast" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-revolut.svg" alt="Revolut London Growth" /></a></td>
+    <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-harry.svg" alt="Harry Styles Tour Analytics" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-tesco.svg" alt="Tesco vs Ocado Online Grocery" /></a></td>
+    <td width="50%"><a href="https://vareshportfolio.vercel.app"><img src="assets/card-bnpl.svg" alt="BNPL and Impulse Buying" /></a></td>
+  </tr>
+</table>
+
+## Toolkit
 
 | | |
 |---|---|
 | **Languages** | Python (pandas, NumPy, scikit-learn), SQL (window functions, CTEs, DuckDB, SQLite, BigQuery) |
 | **Analytics** | Excel, Tableau, Google Analytics 4, A/B test design, regression, SPSS |
 | **AI and automation** | Local LLMs with Ollama, automatic number checkers for AI-written reports |
-| **Marketing platforms** | Meta Ads Manager, Google Ads (Search certified), HubSpot |
+| **Marketing** | Meta Ads Manager, Google Ads (Search certified), HubSpot |
 
 ## How I work
 
 1. **Start with the business question**, not the dataset.
 2. **Check the sample is fair** before trusting the result.
 3. **Keep the model simple** when a complex one scores the same.
-4. **Test the AI.** My first AI-written monthly summary mixed up customers and revenue, so I built a number checker to catch it. That checker is now part of the pipeline.
-5. **Write the limits down.** Every project README has an honest-limits section.
+4. **Test the AI.** My first AI-written monthly summary mixed up customers and revenue, so I built a number checker. It is now part of the pipeline.
+5. **Write the limits down.** Accuracy is not the same as usefulness.
 
-## Get in touch
+## Background
 
-I reply fast. If you are hiring for a junior data or marketing analytics role, or want to talk about any of the projects above, email me or message me on LinkedIn.
+I started in filmmaking and marketing, and the question that kept coming back was *which of it actually worked?* I finished an **MSc Marketing (Merit)** at the University of Birmingham while teaching myself SQL, Python and machine learning on the side. It felt like doing two degrees at once, analytics and marketing, and that is the mix I want to work in.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=100&section=footer" alt="footer" />
-</div>
+<p align="center">
+  <a href="mailto:vareshworks@gmail.com">vareshworks@gmail.com</a>
+</p>
